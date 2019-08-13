@@ -1,0 +1,1 @@
+{"index.js":"\n\nconst arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];\nlet arr2;\n\narr2 = [...arr1];"}

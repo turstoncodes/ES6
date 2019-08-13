@@ -1,0 +1,1 @@
+{"index.js":"const sum =\n\nfunction sum(...args)\n{\n    return args.reduce((a, b) => a + b, 0);\n}"}
